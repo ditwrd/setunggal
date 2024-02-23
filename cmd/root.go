@@ -19,7 +19,13 @@ package cmd
 import (
 	"fmt"
 	"os"
+	"path/filepath"
+	"strings"
 
+	"github.com/ditwrd/setunggal/internal/ansible/data"
+
+	"github.com/kluctl/go-embed-python/embed_util"
+	"github.com/kluctl/go-embed-python/python"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
@@ -29,16 +35,44 @@ var cfgFile string
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "setunggal",
-	Short: "A brief description of your application",
-	Long: `A longer description that spans multiple lines and likely contains
-examples and usage of using your application. For example:
+	Short: "Setunggal CLI",
+	Run: func(cmd *cobra.Command, args []string) {
+		tmpDir := filepath.Join(os.TempDir(), "setunggal-embedded")
 
-Cobra is a CLI library for Go that empowers applications.
-This application is a tool to generate the needed files
-to quickly create a Cobra application.`,
-	// Uncomment the following line if your bare application
-	// has an action associated with it:
-	// Run: func(cmd *cobra.Command, args []string) { },
+		p, _ := python.NewEmbeddedPythonWithTmpDir(tmpDir+"-python", true)
+		a, _ := embed_util.NewEmbeddedFilesWithTmpDir(data.Data, tmpDir+"-ansible", true)
+		p.AddPythonPath(a.GetExtractedPath())
+
+		fmt.Println("----------")
+		fmt.Println("Ansible Version Check")
+		fmt.Println("----------")
+		cmdd := p.PythonCmd("-m", "ansible", "playbook", "--version")
+		cmdd.Stdout = os.Stdout
+		cmdd.Stderr = os.Stderr
+		cmdd.Run()
+		fmt.Println()
+
+		cmdList := [][]string{
+			{"list"},
+			{"install", "community.docker"},
+			{"list"},
+		}
+		for _, cmdItem := range cmdList {
+			defaultCmd := []string{"-m", "ansible", "galaxy", "collection"}
+			cmdToRun := append(defaultCmd, cmdItem...)
+
+			fmt.Println("----------")
+			fmt.Println("Running python", strings.Join(cmdToRun, " "))
+			fmt.Println("----------")
+
+			cmdd := p.PythonCmd(cmdToRun...)
+			cmdd.Stdout = os.Stdout
+			cmdd.Stderr = os.Stderr
+			cmdd.Run()
+
+			fmt.Println()
+		}
+	},
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.

@@ -1,0 +1,7494 @@
+{
+  "contentHash": "5affb12fca9889dd1ab9cc94b3cebf0c236449fd3b77994af59e03dc199d42fa",
+  "files": [
+    {
+      "name": "Jinja2-3.1.3.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "Jinja2-3.1.3.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "Jinja2-3.1.3.dist-info/LICENSE.rst",
+      "size": 1475,
+      "perm": 436
+    },
+    {
+      "name": "Jinja2-3.1.3.dist-info/METADATA",
+      "size": 3301,
+      "perm": 436
+    },
+    {
+      "name": "Jinja2-3.1.3.dist-info/RECORD",
+      "size": 3701,
+      "perm": 436
+    },
+    {
+      "name": "Jinja2-3.1.3.dist-info/WHEEL",
+      "size": 92,
+      "perm": 436
+    },
+    {
+      "name": "Jinja2-3.1.3.dist-info/entry_points.txt",
+      "size": 59,
+      "perm": 436
+    },
+    {
+      "name": "Jinja2-3.1.3.dist-info/top_level.txt",
+      "size": 7,
+      "perm": 436
+    },
+    {
+      "name": "MarkupSafe-2.1.5.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "MarkupSafe-2.1.5.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "MarkupSafe-2.1.5.dist-info/LICENSE.rst",
+      "size": 1475,
+      "perm": 436
+    },
+    {
+      "name": "MarkupSafe-2.1.5.dist-info/METADATA",
+      "size": 3003,
+      "perm": 436
+    },
+    {
+      "name": "MarkupSafe-2.1.5.dist-info/RECORD",
+      "size": 1100,
+      "perm": 436
+    },
+    {
+      "name": "MarkupSafe-2.1.5.dist-info/WHEEL",
+      "size": 115,
+      "perm": 436
+    },
+    {
+      "name": "MarkupSafe-2.1.5.dist-info/top_level.txt",
+      "size": 11,
+      "perm": 436
+    },
+    {
+      "name": "PyYAML-6.0.1.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "PyYAML-6.0.1.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "PyYAML-6.0.1.dist-info/LICENSE",
+      "size": 1101,
+      "perm": 436
+    },
+    {
+      "name": "PyYAML-6.0.1.dist-info/METADATA",
+      "size": 2058,
+      "perm": 436
+    },
+    {
+      "name": "PyYAML-6.0.1.dist-info/RECORD",
+      "size": 2686,
+      "perm": 436
+    },
+    {
+      "name": "PyYAML-6.0.1.dist-info/WHEEL",
+      "size": 110,
+      "perm": 436
+    },
+    {
+      "name": "PyYAML-6.0.1.dist-info/top_level.txt",
+      "size": 11,
+      "perm": 436
+    },
+    {
+      "name": "_cffi_backend.cpython-312-darwin.so",
+      "size": 216432,
+      "perm": 509,
+      "compressed": true
+    },
+    {
+      "name": "_yaml",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "_yaml/__init__.py",
+      "size": 1402,
+      "perm": 436
+    },
+    {
+      "name": "ansible",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/__init__.py",
+      "size": 1299,
+      "perm": 436
+    },
+    {
+      "name": "ansible/__main__.py",
+      "size": 1395,
+      "perm": 436
+    },
+    {
+      "name": "ansible/_vendor",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/_vendor/__init__.py",
+      "size": 2086,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/cli/__init__.py",
+      "size": 28706,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/adhoc.py",
+      "size": 8247,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/arguments",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/cli/arguments/__init__.py",
+      "size": 221,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/arguments/option_helpers.py",
+      "size": 18541,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/config.py",
+      "size": 22503,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/console.py",
+      "size": 22040,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/doc.py",
+      "size": 64080,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/galaxy.py",
+      "size": 95115,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/inventory.py",
+      "size": 17735,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/playbook.py",
+      "size": 10918,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/pull.py",
+      "size": 17336,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/scripts",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/cli/scripts/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/scripts/ansible_connection_cli_stub.py",
+      "size": 13522,
+      "perm": 436
+    },
+    {
+      "name": "ansible/cli/vault.py",
+      "size": 23007,
+      "perm": 436
+    },
+    {
+      "name": "ansible/collections",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/collections/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/collections/list.py",
+      "size": 2838,
+      "perm": 436
+    },
+    {
+      "name": "ansible/compat",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/compat/__init__.py",
+      "size": 1087,
+      "perm": 436
+    },
+    {
+      "name": "ansible/compat/importlib_resources.py",
+      "size": 625,
+      "perm": 436
+    },
+    {
+      "name": "ansible/compat/selectors",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/compat/selectors/__init__.py",
+      "size": 1251,
+      "perm": 436
+    },
+    {
+      "name": "ansible/config",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/config/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/config/ansible_builtin_runtime.yml",
+      "size": 376031,
+      "perm": 436
+    },
+    {
+      "name": "ansible/config/base.yml",
+      "size": 84999,
+      "perm": 436
+    },
+    {
+      "name": "ansible/config/manager.py",
+      "size": 25379,
+      "perm": 436
+    },
+    {
+      "name": "ansible/constants.py",
+      "size": 8154,
+      "perm": 436
+    },
+    {
+      "name": "ansible/context.py",
+      "size": 2018,
+      "perm": 436
+    },
+    {
+      "name": "ansible/errors",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/errors/__init__.py",
+      "size": 14823,
+      "perm": 436
+    },
+    {
+      "name": "ansible/errors/yaml_strings.py",
+      "size": 3942,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/executor/__init__.py",
+      "size": 833,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/action_write_locks.py",
+      "size": 1915,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/discovery",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/executor/discovery/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/discovery/python_target.py",
+      "size": 1234,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/interpreter_discovery.py",
+      "size": 9943,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/module_common.py",
+      "size": 65834,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/play_iterator.py",
+      "size": 30507,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/playbook_executor.py",
+      "size": 15098,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/executor/powershell/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/async_watchdog.ps1",
+      "size": 4691,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/async_wrapper.ps1",
+      "size": 7480,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/become_wrapper.ps1",
+      "size": 7439,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/bootstrap_wrapper.ps1",
+      "size": 487,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/coverage_wrapper.ps1",
+      "size": 8296,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/exec_wrapper.ps1",
+      "size": 10128,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/module_manifest.py",
+      "size": 17449,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/module_powershell_wrapper.ps1",
+      "size": 3179,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/module_script_wrapper.ps1",
+      "size": 872,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/powershell/module_wrapper.ps1",
+      "size": 9042,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/process",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/executor/process/__init__.py",
+      "size": 833,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/process/worker.py",
+      "size": 10125,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/stats.py",
+      "size": 3264,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/task_executor.py",
+      "size": 60307,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/task_queue_manager.py",
+      "size": 18724,
+      "perm": 436
+    },
+    {
+      "name": "ansible/executor/task_result.py",
+      "size": 5748,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/__init__.py",
+      "size": 2550,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/api.py",
+      "size": 39789,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/collection",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/collection/__init__.py",
+      "size": 78192,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/collection/concrete_artifact_manager.py",
+      "size": 29354,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/collection/galaxy_api_proxy.py",
+      "size": 7989,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/collection/gpg.py",
+      "size": 7312,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/Dockerfile.j2",
+      "size": 190,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/Makefile.j2",
+      "size": 755,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/README.md",
+      "size": 1338,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/apb.yml.j2",
+      "size": 278,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/defaults",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/defaults/main.yml.j2",
+      "size": 40,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/files",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/files/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/handlers",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/handlers/main.yml.j2",
+      "size": 40,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/meta",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/meta/main.yml.j2",
+      "size": 1184,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/playbooks",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/playbooks/deprovision.yml.j2",
+      "size": 200,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/playbooks/provision.yml.j2",
+      "size": 196,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/tasks",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/tasks/main.yml.j2",
+      "size": 37,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/templates",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/templates/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/tests",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/tests/ansible.cfg",
+      "size": 33,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/tests/inventory",
+      "size": 12,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/tests/test.yml.j2",
+      "size": 131,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/apb/vars",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/apb/vars/main.yml.j2",
+      "size": 36,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/collections_galaxy_meta.yml",
+      "size": 4018,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/README.md",
+      "size": 1497,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/defaults",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/defaults/main.yml.j2",
+      "size": 40,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/files",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/files/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/handlers",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/handlers/main.yml.j2",
+      "size": 40,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/meta",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/meta/container.yml.j2",
+      "size": 287,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/meta/main.yml.j2",
+      "size": 1540,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/tasks",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/tasks/main.yml.j2",
+      "size": 37,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/templates",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/templates/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/tests",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/tests/ansible.cfg",
+      "size": 33,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/tests/inventory",
+      "size": 12,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/tests/test.yml.j2",
+      "size": 131,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/container/vars",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/container/vars/main.yml.j2",
+      "size": 36,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/README.md.j2",
+      "size": 96,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/docs",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/docs/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/galaxy.yml.j2",
+      "size": 444,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/meta",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/meta/runtime.yml",
+      "size": 1374,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/plugins",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/plugins/README.md.j2",
+      "size": 929,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/roles",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/collection/roles/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/README.md",
+      "size": 1328,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/defaults",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/defaults/main.yml.j2",
+      "size": 40,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/files",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/files/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/handlers",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/handlers/main.yml.j2",
+      "size": 40,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/meta",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/meta/main.yml.j2",
+      "size": 1687,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/tasks",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/tasks/main.yml.j2",
+      "size": 37,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/templates",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/templates/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/tests",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/tests/inventory",
+      "size": 11,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/tests/test.yml.j2",
+      "size": 74,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/vars",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/default/role/vars/main.yml.j2",
+      "size": 36,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/README.md",
+      "size": 1370,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/cliconf_plugins",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/cliconf_plugins/example.py.j2",
+      "size": 1532,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/defaults",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/defaults/main.yml.j2",
+      "size": 40,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/files",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/files/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/library",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/library/example_command.py.j2",
+      "size": 2393,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/library/example_config.py.j2",
+      "size": 2378,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/library/example_facts.py.j2",
+      "size": 2366,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/meta",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/meta/main.yml.j2",
+      "size": 1490,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/module_utils",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/module_utils/example.py.j2",
+      "size": 1559,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/netconf_plugins",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/netconf_plugins/example.py.j2",
+      "size": 1532,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/tasks",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/tasks/main.yml.j2",
+      "size": 37,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/templates",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/templates/.git_keep",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/terminal_plugins",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/terminal_plugins/example.py.j2",
+      "size": 1547,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/tests",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/tests/inventory",
+      "size": 11,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/tests/test.yml.j2",
+      "size": 199,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/data/network/vars",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/data/network/vars/main.yml.j2",
+      "size": 36,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution/__init__.py",
+      "size": 2049,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution/dataclasses.py",
+      "size": 23983,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution/errors.py",
+      "size": 750,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution/providers.py",
+      "size": 23470,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution/reporters.py",
+      "size": 687,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution/resolvers.py",
+      "size": 676,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/dependency_resolution/versioning.py",
+      "size": 1779,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/role.py",
+      "size": 21414,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/token.py",
+      "size": 6184,
+      "perm": 436
+    },
+    {
+      "name": "ansible/galaxy/user_agent.py",
+      "size": 813,
+      "perm": 436
+    },
+    {
+      "name": "ansible/inventory",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/inventory/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/inventory/data.py",
+      "size": 10639,
+      "perm": 436
+    },
+    {
+      "name": "ansible/inventory/group.py",
+      "size": 9805,
+      "perm": 436
+    },
+    {
+      "name": "ansible/inventory/helpers.py",
+      "size": 1293,
+      "perm": 436
+    },
+    {
+      "name": "ansible/inventory/host.py",
+      "size": 5121,
+      "perm": 436
+    },
+    {
+      "name": "ansible/inventory/manager.py",
+      "size": 29507,
+      "perm": 436
+    },
+    {
+      "name": "ansible/keyword_desc.yml",
+      "size": 7412,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/_text.py",
+      "size": 597,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/ansible_release.py",
+      "size": 915,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/api.py",
+      "size": 5837,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/basic.py",
+      "size": 87489,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/common/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/_collections_compat.py",
+      "size": 981,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/_json_compat.py",
+      "size": 643,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/_utils.py",
+      "size": 1534,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/arg_spec.py",
+      "size": 12063,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/collections.py",
+      "size": 3900,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/dict_transformations.py",
+      "size": 5576,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/file.py",
+      "size": 2726,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/json.py",
+      "size": 3304,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/locale.py",
+      "size": 2347,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/network.py",
+      "size": 4278,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/parameters.py",
+      "size": 37201,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/process.py",
+      "size": 1870,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/respawn.py",
+      "size": 3856,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/sys_info.py",
+      "size": 5487,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/text",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/common/text/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/text/converters.py",
+      "size": 13169,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/text/formatters.py",
+      "size": 3859,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/validation.py",
+      "size": 19143,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/warnings.py",
+      "size": 1416,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/common/yaml.py",
+      "size": 1701,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/compat/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/_selectors2.py",
+      "size": 23532,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/datetime.py",
+      "size": 985,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/importlib.py",
+      "size": 635,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/paramiko.py",
+      "size": 880,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/selectors.py",
+      "size": 2399,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/selinux.py",
+      "size": 3527,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/typing.py",
+      "size": 789,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/compat/version.py",
+      "size": 12787,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/connection.py",
+      "size": 8447,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/csharp",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/csharp/Ansible.AccessToken.cs",
+      "size": 15871,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/csharp/Ansible.Basic.cs",
+      "size": 77734,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/csharp/Ansible.Become.cs",
+      "size": 30457,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/csharp/Ansible.Privilege.cs",
+      "size": 19398,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/csharp/Ansible.Process.cs",
+      "size": 19449,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/csharp/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/distro",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/distro/__init__.py",
+      "size": 2026,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/distro/_distro.py",
+      "size": 49344,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/errors.py",
+      "size": 3396,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/facts/__init__.py",
+      "size": 1943,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/ansible_collector.py",
+      "size": 6619,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/collector.py",
+      "size": 14717,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/compat.py",
+      "size": 4115,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/default_collectors.py",
+      "size": 8328,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/aix.py",
+      "size": 10506,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/base.py",
+      "size": 2804,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/darwin.py",
+      "size": 5885,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/dragonfly.py",
+      "size": 1090,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/freebsd.py",
+      "size": 8861,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/hpux.py",
+      "size": 8351,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/hurd.py",
+      "size": 1753,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/linux.py",
+      "size": 35143,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/netbsd.py",
+      "size": 6233,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/openbsd.py",
+      "size": 6933,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/hardware/sunos.py",
+      "size": 10566,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/namespace.py",
+      "size": 2366,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/facts/network/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/aix.py",
+      "size": 6051,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/base.py",
+      "size": 2468,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/darwin.py",
+      "size": 2011,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/dragonfly.py",
+      "size": 1202,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/fc_wwn.py",
+      "size": 5099,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/freebsd.py",
+      "size": 1190,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/generic_bsd.py",
+      "size": 12648,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/hpux.py",
+      "size": 3016,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/hurd.py",
+      "size": 3119,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/iscsi.py",
+      "size": 4795,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/linux.py",
+      "size": 18656,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/netbsd.py",
+      "size": 1801,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/nvme.py",
+      "size": 2049,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/openbsd.py",
+      "size": 1600,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/network/sunos.py",
+      "size": 4805,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/other",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/facts/other/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/other/facter.py",
+      "size": 2792,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/other/ohai.py",
+      "size": 2375,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/packages.py",
+      "size": 2655,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/sysctl.py",
+      "size": 1948,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/facts/system/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/apparmor.py",
+      "size": 1379,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/caps.py",
+      "size": 2486,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/chroot.py",
+      "size": 1570,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/cmdline.py",
+      "size": 2690,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/date_time.py",
+      "size": 3178,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/distribution.py",
+      "size": 32765,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/dns.py",
+      "size": 2745,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/env.py",
+      "size": 1238,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/fips.py",
+      "size": 1406,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/loadavg.py",
+      "size": 822,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/local.py",
+      "size": 4426,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/lsb.py",
+      "size": 3536,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/pkg_mgr.py",
+      "size": 7762,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/platform.py",
+      "size": 4143,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/python.py",
+      "size": 2067,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/selinux.py",
+      "size": 3308,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/service_mgr.py",
+      "size": 6655,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/ssh_pub_keys.py",
+      "size": 2292,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/system/user.py",
+      "size": 1944,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/timeout.py",
+      "size": 2506,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/utils.py",
+      "size": 3472,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/base.py",
+      "size": 2546,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/dragonfly.py",
+      "size": 1012,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/freebsd.py",
+      "size": 3071,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/hpux.py",
+      "size": 2876,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/linux.py",
+      "size": 17878,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/netbsd.py",
+      "size": 2949,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/openbsd.py",
+      "size": 2838,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/sunos.py",
+      "size": 6270,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/facts/virtual/sysctl.py",
+      "size": 5313,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/json_utils.py",
+      "size": 3456,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/parsing",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/parsing/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/parsing/convert_bool.py",
+      "size": 1114,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.AddType.psm1",
+      "size": 18847,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.ArgvParser.psm1",
+      "size": 3327,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.Backup.psm1",
+      "size": 1104,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.CamelConversion.psm1",
+      "size": 2456,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.CommandUtil.psm1",
+      "size": 3686,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.FileUtil.psm1",
+      "size": 2201,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.Legacy.psm1",
+      "size": 12756,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.LinkUtil.psm1",
+      "size": 17769,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.PrivilegeUtil.psm1",
+      "size": 2868,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.SID.psm1",
+      "size": 3639,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/Ansible.ModuleUtils.WebRequest.psm1",
+      "size": 19181,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/powershell/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/pycompat24.py",
+      "size": 2269,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/service.py",
+      "size": 9304,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/six",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/module_utils/six/__init__.py",
+      "size": 34982,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/splitter.py",
+      "size": 9522,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/urls.py",
+      "size": 86168,
+      "perm": 436
+    },
+    {
+      "name": "ansible/module_utils/yumdnf.py",
+      "size": 7713,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/modules/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/add_host.py",
+      "size": 3909,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/apt.py",
+      "size": 60313,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/apt_key.py",
+      "size": 18145,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/apt_repository.py",
+      "size": 30306,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/assemble.py",
+      "size": 9027,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/assert.py",
+      "size": 2816,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/async_status.py",
+      "size": 4526,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/async_wrapper.py",
+      "size": 11718,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/blockinfile.py",
+      "size": 15545,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/command.py",
+      "size": 14012,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/copy.py",
+      "size": 35906,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/cron.py",
+      "size": 26189,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/deb822_repository.py",
+      "size": 15693,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/debconf.py",
+      "size": 8452,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/debug.py",
+      "size": 2958,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/dnf.py",
+      "size": 60098,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/dnf5.py",
+      "size": 25680,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/dpkg_selections.py",
+      "size": 2833,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/expect.py",
+      "size": 8686,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/fail.py",
+      "size": 1710,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/fetch.py",
+      "size": 4267,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/file.py",
+      "size": 40957,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/find.py",
+      "size": 21729,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/gather_facts.py",
+      "size": 2952,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/get_url.py",
+      "size": 26996,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/getent.py",
+      "size": 5696,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/git.py",
+      "size": 56595,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/group.py",
+      "size": 20983,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/group_by.py",
+      "size": 2467,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/hostname.py",
+      "size": 29609,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/import_playbook.py",
+      "size": 2107,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/import_role.py",
+      "size": 3345,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/import_tasks.py",
+      "size": 2188,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/include_role.py",
+      "size": 4274,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/include_tasks.py",
+      "size": 2710,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/include_vars.py",
+      "size": 6755,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/iptables.py",
+      "size": 34066,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/known_hosts.py",
+      "size": 13852,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/lineinfile.py",
+      "size": 23967,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/meta.py",
+      "size": 6027,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/package.py",
+      "size": 3480,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/package_facts.py",
+      "size": 18150,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/pause.py",
+      "size": 3821,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/ping.py",
+      "size": 2376,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/pip.py",
+      "size": 32027,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/raw.py",
+      "size": 3792,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/reboot.py",
+      "size": 4861,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/replace.py",
+      "size": 11693,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/rpm_key.py",
+      "size": 8708,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/script.py",
+      "size": 4461,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/service.py",
+      "size": 63096,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/service_facts.py",
+      "size": 18015,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/set_fact.py",
+      "size": 5772,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/set_stats.py",
+      "size": 2692,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/setup.py",
+      "size": 11071,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/shell.py",
+      "size": 6881,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/slurp.py",
+      "size": 3259,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/stat.py",
+      "size": 19246,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/subversion.py",
+      "size": 13534,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/systemd.py",
+      "size": 24297,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/systemd_service.py",
+      "size": 24297,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/sysvinit.py",
+      "size": 13835,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/tempfile.py",
+      "size": 3539,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/template.py",
+      "size": 4586,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/unarchive.py",
+      "size": 44450,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/uri.py",
+      "size": 28521,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/user.py",
+      "size": 118135,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/validate_argument_spec.py",
+      "size": 3128,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/wait_for.py",
+      "size": 27373,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/wait_for_connection.py",
+      "size": 3377,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/yum.py",
+      "size": 74057,
+      "perm": 436
+    },
+    {
+      "name": "ansible/modules/yum_repository.py",
+      "size": 24957,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/parsing/__init__.py",
+      "size": 826,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/ajson.py",
+      "size": 1338,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/dataloader.py",
+      "size": 20466,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/mod_args.py",
+      "size": 13720,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/plugin_docs.py",
+      "size": 8714,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/quoting.py",
+      "size": 1141,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/splitter.py",
+      "size": 11105,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/utils",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/parsing/utils/__init__.py",
+      "size": 833,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/utils/addresses.py",
+      "size": 8167,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/utils/jsonify.py",
+      "size": 1233,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/utils/yaml.py",
+      "size": 3178,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/vault",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/parsing/vault/__init__.py",
+      "size": 51493,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/yaml",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/parsing/yaml/__init__.py",
+      "size": 833,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/yaml/constructor.py",
+      "size": 7010,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/yaml/dumper.py",
+      "size": 3391,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/yaml/loader.py",
+      "size": 2008,
+      "perm": 436
+    },
+    {
+      "name": "ansible/parsing/yaml/objects.py",
+      "size": 10540,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/playbook/__init__.py",
+      "size": 4824,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/attribute.py",
+      "size": 7733,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/base.py",
+      "size": 33942,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/block.py",
+      "size": 16599,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/collectionsearch.py",
+      "size": 2654,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/conditional.py",
+      "size": 4966,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/delegatable.py",
+      "size": 590,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/handler.py",
+      "size": 2310,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/handler_task_include.py",
+      "size": 1475,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/helpers.py",
+      "size": 15317,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/included_file.py",
+      "size": 11616,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/loop_control.py",
+      "size": 1773,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/notifiable.py",
+      "size": 264,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/play.py",
+      "size": 16343,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/play_context.py",
+      "size": 14446,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/playbook_include.py",
+      "size": 7577,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/role",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/playbook/role/__init__.py",
+      "size": 29821,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/role/definition.py",
+      "size": 9634,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/role/include.py",
+      "size": 2426,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/role/metadata.py",
+      "size": 5158,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/role/requirement.py",
+      "size": 4257,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/role_include.py",
+      "size": 7968,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/taggable.py",
+      "size": 3249,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/task.py",
+      "size": 21490,
+      "perm": 436
+    },
+    {
+      "name": "ansible/playbook/task_include.py",
+      "size": 5318,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/__init__.py",
+      "size": 5371,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/action/__init__.py",
+      "size": 68692,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/add_host.py",
+      "size": 3662,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/assemble.py",
+      "size": 6590,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/assert.py",
+      "size": 5156,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/async_status.py",
+      "size": 1779,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/command.py",
+      "size": 1122,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/copy.py",
+      "size": 27384,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/debug.py",
+      "size": 3525,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/dnf.py",
+      "size": 3569,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/fail.py",
+      "size": 1510,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/fetch.py",
+      "size": 9970,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/gather_facts.py",
+      "size": 7914,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/group_by.py",
+      "size": 1947,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/include_vars.py",
+      "size": 11482,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/normal.py",
+      "size": 1907,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/package.py",
+      "size": 4224,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/pause.py",
+      "size": 5727,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/raw.py",
+      "size": 1823,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/reboot.py",
+      "size": 21337,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/script.py",
+      "size": 8527,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/service.py",
+      "size": 4616,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/set_fact.py",
+      "size": 2851,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/set_stats.py",
+      "size": 2872,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/shell.py",
+      "size": 1580,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/template.py",
+      "size": 10032,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/unarchive.py",
+      "size": 4912,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/uri.py",
+      "size": 4023,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/validate_argument_spec.py",
+      "size": 3990,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/wait_for_connection.py",
+      "size": 4625,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/action/yum.py",
+      "size": 4723,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/become",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/become/__init__.py",
+      "size": 4061,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/become/runas.py",
+      "size": 2617,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/become/su.py",
+      "size": 5379,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/become/sudo.py",
+      "size": 4035,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/cache",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/cache/__init__.py",
+      "size": 12243,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/cache/base.py",
+      "size": 960,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/cache/jsonfile.py",
+      "size": 1985,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/cache/memory.py",
+      "size": 1271,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/callback",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/callback/__init__.py",
+      "size": 23671,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/callback/default.py",
+      "size": 16931,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/callback/junit.py",
+      "size": 13826,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/callback/minimal.py",
+      "size": 3092,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/callback/oneline.py",
+      "size": 3534,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/callback/tree.py",
+      "size": 3067,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/cliconf",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/cliconf/__init__.py",
+      "size": 22772,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/connection",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/connection/__init__.py",
+      "size": 18011,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/connection/local.py",
+      "size": 8437,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/connection/paramiko_ssh.py",
+      "size": 30111,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/connection/psrp.py",
+      "size": 36798,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/connection/ssh.py",
+      "size": 64393,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/connection/winrm.py",
+      "size": 37963,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/action_common_attributes.py",
+      "size": 2449,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/action_core.py",
+      "size": 2908,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/backup.py",
+      "size": 560,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/connection_pipelining.py",
+      "size": 1231,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/constructed.py",
+      "size": 3010,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/decrypt.py",
+      "size": 539,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/default_callback.py",
+      "size": 3252,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/files.py",
+      "size": 4813,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/inventory_cache.py",
+      "size": 1979,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/result_format_callback.py",
+      "size": 1998,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/return_common.py",
+      "size": 1087,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/shell_common.py",
+      "size": 3567,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/shell_windows.py",
+      "size": 1523,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/template_common.py",
+      "size": 4687,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/url.py",
+      "size": 2851,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/url_windows.py",
+      "size": 5561,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/validate.py",
+      "size": 885,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/doc_fragments/vars_plugin_staging.py",
+      "size": 947,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/filter/__init__.py",
+      "size": 510,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/b64decode.yml",
+      "size": 926,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/b64encode.yml",
+      "size": 546,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/basename.yml",
+      "size": 809,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/bool.yml",
+      "size": 610,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/checksum.yml",
+      "size": 524,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/combinations.yml",
+      "size": 780,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/combine.yml",
+      "size": 1671,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/comment.yml",
+      "size": 2138,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/commonpath.yml",
+      "size": 696,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/core.py",
+      "size": 22979,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/dict2items.yml",
+      "size": 1523,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/difference.yml",
+      "size": 1091,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/dirname.yml",
+      "size": 820,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/encryption.py",
+      "size": 3324,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/expanduser.yml",
+      "size": 506,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/expandvars.yml",
+      "size": 569,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/extract.yml",
+      "size": 1368,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/fileglob.yml",
+      "size": 589,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/flatten.yml",
+      "size": 846,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/from_json.yml",
+      "size": 905,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/from_yaml.yml",
+      "size": 960,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/from_yaml_all.yml",
+      "size": 1281,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/hash.yml",
+      "size": 861,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/human_readable.yml",
+      "size": 993,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/human_to_bytes.yml",
+      "size": 1047,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/intersect.yml",
+      "size": 1036,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/items2dict.yml",
+      "size": 1561,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/log.yml",
+      "size": 904,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/mandatory.yml",
+      "size": 785,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/mathstuff.py",
+      "size": 8101,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/md5.yml",
+      "size": 709,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/normpath.yml",
+      "size": 628,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/password_hash.yml",
+      "size": 1116,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/path_join.yml",
+      "size": 1305,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/permutations.yml",
+      "size": 969,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/pow.yml",
+      "size": 692,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/product.yml",
+      "size": 1917,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/quote.yml",
+      "size": 492,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/random.yml",
+      "size": 1188,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/realpath.yml",
+      "size": 585,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/regex_escape.yml",
+      "size": 688,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/regex_findall.yml",
+      "size": 1425,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/regex_replace.yml",
+      "size": 1802,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/regex_search.yml",
+      "size": 1329,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/rekey_on_member.yml",
+      "size": 921,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/relpath.yml",
+      "size": 758,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/root.yml",
+      "size": 617,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/sha1.yml",
+      "size": 729,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/shuffle.yml",
+      "size": 685,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/split.yml",
+      "size": 835,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/splitext.yml",
+      "size": 748,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/strftime.yml",
+      "size": 1862,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/subelements.yml",
+      "size": 1438,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/symmetric_difference.yml",
+      "size": 1094,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/ternary.yml",
+      "size": 1555,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/to_datetime.yml",
+      "size": 1613,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/to_json.yml",
+      "size": 2756,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/to_nice_json.yml",
+      "size": 2264,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/to_nice_yaml.yml",
+      "size": 1589,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/to_uuid.yml",
+      "size": 785,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/to_yaml.yml",
+      "size": 1672,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/type_debug.yml",
+      "size": 508,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/union.yml",
+      "size": 1021,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/unique.yml",
+      "size": 839,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/unvault.yml",
+      "size": 1069,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/urldecode.yml",
+      "size": 716,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/urls.py",
+      "size": 508,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/urlsplit.py",
+      "size": 2624,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/vault.yml",
+      "size": 1668,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/win_basename.yml",
+      "size": 673,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/win_dirname.yml",
+      "size": 679,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/win_splitdrive.yml",
+      "size": 819,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/zip.yml",
+      "size": 1352,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/filter/zip_longest.yml",
+      "size": 1256,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/httpapi",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/httpapi/__init__.py",
+      "size": 3146,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/inventory/__init__.py",
+      "size": 20691,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/advanced_host_list.py",
+      "size": 2221,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/auto.py",
+      "size": 2495,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/constructed.py",
+      "size": 7427,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/generator.py",
+      "size": 5548,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/host_list.py",
+      "size": 2305,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/ini.py",
+      "size": 17606,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/script.py",
+      "size": 8283,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/toml.py",
+      "size": 9640,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/inventory/yaml.py",
+      "size": 7468,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/list.py",
+      "size": 8979,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/loader.py",
+      "size": 74498,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/lookup/__init__.py",
+      "size": 4764,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/config.py",
+      "size": 6413,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/csvfile.py",
+      "size": 6424,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/dict.py",
+      "size": 2250,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/env.py",
+      "size": 2731,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/file.py",
+      "size": 3324,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/fileglob.py",
+      "size": 3109,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/first_found.py",
+      "size": 9127,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/indexed_items.py",
+      "size": 1585,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/ini.py",
+      "size": 7904,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/inventory_hostnames.py",
+      "size": 1769,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/items.py",
+      "size": 1868,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/lines.py",
+      "size": 2307,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/list.py",
+      "size": 1142,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/nested.py",
+      "size": 2702,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/password.py",
+      "size": 17734,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/pipe.py",
+      "size": 3084,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/random_choice.py",
+      "size": 1594,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/sequence.py",
+      "size": 9183,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/subelements.py",
+      "size": 6325,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/template.py",
+      "size": 7165,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/together.py",
+      "size": 2163,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/unvault.py",
+      "size": 2102,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/url.py",
+      "size": 9064,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/varnames.py",
+      "size": 2383,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/lookup/vars.py",
+      "size": 3477,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/netconf",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/netconf/__init__.py",
+      "size": 17147,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/shell",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/shell/__init__.py",
+      "size": 9575,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/shell/cmd.py",
+      "size": 2223,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/shell/powershell.py",
+      "size": 11393,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/shell/sh.py",
+      "size": 3952,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/strategy",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/strategy/__init__.py",
+      "size": 57101,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/strategy/debug.py",
+      "size": 1258,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/strategy/free.py",
+      "size": 15895,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/strategy/host_pinned.py",
+      "size": 1959,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/strategy/linear.py",
+      "size": 20413,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/terminal",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/terminal/__init__.py",
+      "size": 4472,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/test/__init__.py",
+      "size": 471,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/abs.yml",
+      "size": 764,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/all.yml",
+      "size": 701,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/any.yml",
+      "size": 698,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/change.yml",
+      "size": 663,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/changed.yml",
+      "size": 663,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/contains.yml",
+      "size": 1287,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/core.py",
+      "size": 9300,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/directory.yml",
+      "size": 660,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/exists.yml",
+      "size": 884,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/failed.yml",
+      "size": 803,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/failure.yml",
+      "size": 803,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/falsy.yml",
+      "size": 801,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/file.yml",
+      "size": 651,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/files.py",
+      "size": 1491,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/finished.yml",
+      "size": 699,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/is_abs.yml",
+      "size": 764,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/is_dir.yml",
+      "size": 660,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/is_file.yml",
+      "size": 651,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/is_link.yml",
+      "size": 648,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/is_mount.yml",
+      "size": 596,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/is_same_file.yml",
+      "size": 737,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/isnan.yml",
+      "size": 584,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/issubset.yml",
+      "size": 708,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/issuperset.yml",
+      "size": 712,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/link.yml",
+      "size": 648,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/link_exists.yml",
+      "size": 706,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/match.yml",
+      "size": 1007,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/mathstuff.py",
+      "size": 1561,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/mount.yml",
+      "size": 596,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/nan.yml",
+      "size": 584,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/reachable.yml",
+      "size": 692,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/regex.yml",
+      "size": 1034,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/same_file.yml",
+      "size": 737,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/search.yml",
+      "size": 923,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/skip.yml",
+      "size": 623,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/skipped.yml",
+      "size": 623,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/started.yml",
+      "size": 690,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/subset.yml",
+      "size": 708,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/succeeded.yml",
+      "size": 691,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/success.yml",
+      "size": 691,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/successful.yml",
+      "size": 691,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/superset.yml",
+      "size": 712,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/truthy.yml",
+      "size": 810,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/unreachable.yml",
+      "size": 695,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/uri.py",
+      "size": 1126,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/uri.yml",
+      "size": 1115,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/url.yml",
+      "size": 934,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/urn.yml",
+      "size": 576,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/vault_encrypted.yml",
+      "size": 563,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/version.yml",
+      "size": 3283,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/test/version_compare.yml",
+      "size": 3283,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/vars",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/plugins/vars/__init__.py",
+      "size": 1384,
+      "perm": 436
+    },
+    {
+      "name": "ansible/plugins/vars/host_group_vars.py",
+      "size": 6336,
+      "perm": 436
+    },
+    {
+      "name": "ansible/release.py",
+      "size": 915,
+      "perm": 436
+    },
+    {
+      "name": "ansible/template",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/template/__init__.py",
+      "size": 41450,
+      "perm": 436
+    },
+    {
+      "name": "ansible/template/native_helpers.py",
+      "size": 4395,
+      "perm": 436
+    },
+    {
+      "name": "ansible/template/template.py",
+      "size": 1667,
+      "perm": 436
+    },
+    {
+      "name": "ansible/template/vars.py",
+      "size": 2819,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/utils/__init__.py",
+      "size": 833,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/_junit_xml.py",
+      "size": 8671,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/cmd_functions.py",
+      "size": 2233,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/collection_loader",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/utils/collection_loader/__init__.py",
+      "size": 1118,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/collection_loader/_collection_config.py",
+      "size": 3147,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/collection_loader/_collection_finder.py",
+      "size": 56637,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/collection_loader/_collection_meta.py",
+      "size": 1451,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/color.py",
+      "size": 4110,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/context_objects.py",
+      "size": 3119,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/display.py",
+      "size": 29957,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/encrypt.py",
+      "size": 10878,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/fqcn.py",
+      "size": 1268,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/galaxy.py",
+      "size": 3914,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/hashing.py",
+      "size": 2921,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/helpers.py",
+      "size": 1843,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/jsonrpc.py",
+      "size": 3845,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/listify.py",
+      "size": 1712,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/lock.py",
+      "size": 1390,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/multiprocessing.py",
+      "size": 698,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/native_jinja.py",
+      "size": 346,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/path.py",
+      "size": 5893,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/plugin_docs.py",
+      "size": 15110,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/py3compat.py",
+      "size": 2425,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/sentinel.py",
+      "size": 2456,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/shlex.py",
+      "size": 925,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/singleton.py",
+      "size": 949,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/ssh_functions.py",
+      "size": 2300,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/unicode.py",
+      "size": 1184,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/unsafe_proxy.py",
+      "size": 12750,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/vars.py",
+      "size": 9952,
+      "perm": 436
+    },
+    {
+      "name": "ansible/utils/version.py",
+      "size": 7789,
+      "perm": 436
+    },
+    {
+      "name": "ansible/vars",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible/vars/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible/vars/clean.py",
+      "size": 6083,
+      "perm": 436
+    },
+    {
+      "name": "ansible/vars/fact_cache.py",
+      "size": 1956,
+      "perm": 436
+    },
+    {
+      "name": "ansible/vars/hostvars.py",
+      "size": 5134,
+      "perm": 436
+    },
+    {
+      "name": "ansible/vars/manager.py",
+      "size": 38180,
+      "perm": 436
+    },
+    {
+      "name": "ansible/vars/plugins.py",
+      "size": 5413,
+      "perm": 436
+    },
+    {
+      "name": "ansible/vars/reserved.py",
+      "size": 2615,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/COPYING",
+      "size": 35149,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/METADATA",
+      "size": 6905,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/RECORD",
+      "size": 147874,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/REQUESTED",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/WHEEL",
+      "size": 92,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/entry_points.txt",
+      "size": 453,
+      "perm": 436
+    },
+    {
+      "name": "ansible_core-2.16.3.dist-info/top_level.txt",
+      "size": 21,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/__init__.py",
+      "size": 190,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_data/ansible.cfg",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/completion",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_data/completion/docker.txt",
+      "size": 826,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/completion/network.txt",
+      "size": 198,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/completion/remote.txt",
+      "size": 883,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/completion/windows.txt",
+      "size": 147,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/coveragerc",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_data/playbooks/posix_coverage_setup.yml",
+      "size": 594,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/posix_coverage_teardown.yml",
+      "size": 212,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/posix_hosts_prepare.yml",
+      "size": 245,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/posix_hosts_restore.yml",
+      "size": 272,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/pypi_proxy_prepare.yml",
+      "size": 659,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/pypi_proxy_restore.yml",
+      "size": 332,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/windows_coverage_setup.yml",
+      "size": 518,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/windows_coverage_teardown.yml",
+      "size": 2579,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/windows_hosts_prepare.ps1",
+      "size": 846,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/windows_hosts_prepare.yml",
+      "size": 247,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/windows_hosts_restore.ps1",
+      "size": 912,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/playbooks/windows_hosts_restore.yml",
+      "size": 252,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/pytest",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_data/pytest/config",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_data/pytest/config/default.ini",
+      "size": 151,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/pytest/config/legacy.ini",
+      "size": 85,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_data/requirements/ansible-test.txt",
+      "size": 377,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/ansible.txt",
+      "size": 838,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/constraints.txt",
+      "size": 1327,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.ansible-doc.in",
+      "size": 108,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.ansible-doc.txt",
+      "size": 169,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.changelog.in",
+      "size": 78,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.changelog.txt",
+      "size": 267,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.import.in",
+      "size": 37,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.import.plugin.in",
+      "size": 70,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.import.plugin.txt",
+      "size": 157,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.import.txt",
+      "size": 111,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.integration-aliases.in",
+      "size": 7,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.integration-aliases.txt",
+      "size": 137,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.mypy.in",
+      "size": 239,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.mypy.txt",
+      "size": 423,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.pep8.in",
+      "size": 12,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.pep8.txt",
+      "size": 113,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.pslint.ps1",
+      "size": 1624,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.pylint.in",
+      "size": 49,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.pylint.txt",
+      "size": 255,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.runtime-metadata.in",
+      "size": 18,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.runtime-metadata.txt",
+      "size": 150,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.validate-modules.in",
+      "size": 117,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.validate-modules.txt",
+      "size": 211,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.yamllint.in",
+      "size": 9,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/sanity.yamllint.txt",
+      "size": 149,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/units.txt",
+      "size": 111,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_data/requirements/windows-integration.txt",
+      "size": 65,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/__init__.py",
+      "size": 3156,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/ansible_util.py",
+      "size": 12417,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/become.py",
+      "size": 3071,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/bootstrap.py",
+      "size": 2471,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cache.py",
+      "size": 1050,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cgroup.py",
+      "size": 3916,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/ci",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/ci/__init__.py",
+      "size": 7738,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/ci/azp.py",
+      "size": 10137,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/ci/local.py",
+      "size": 6739,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/classification",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/classification/__init__.py",
+      "size": 34325,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/classification/common.py",
+      "size": 894,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/classification/csharp.py",
+      "size": 3241,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/classification/powershell.py",
+      "size": 3053,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/classification/python.py",
+      "size": 13532,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/__init__.py",
+      "size": 1427,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/actions.py",
+      "size": 3366,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/argparsing",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/argparsing/__init__.py",
+      "size": 8922,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/argparsing/actions.py",
+      "size": 606,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/argparsing/argcompletion.py",
+      "size": 5166,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/argparsing/parsers.py",
+      "size": 21490,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/__init__.py",
+      "size": 5436,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/__init__.py",
+      "size": 1967,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/__init__.py",
+      "size": 698,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/targets",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/targets/__init__.py",
+      "size": 1082,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/targets/combine.py",
+      "size": 1388,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/targets/expand.py",
+      "size": 1374,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/targets/filter.py",
+      "size": 2029,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/targets/generate.py",
+      "size": 1389,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/analyze/targets/missing.py",
+      "size": 1795,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/combine.py",
+      "size": 1357,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/erase.py",
+      "size": 894,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/html.py",
+      "size": 1162,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/report.py",
+      "size": 1683,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/coverage/xml.py",
+      "size": 1151,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/env.py",
+      "size": 1399,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/integration",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/integration/__init__.py",
+      "size": 4029,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/integration/network.py",
+      "size": 2621,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/integration/posix.py",
+      "size": 1350,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/integration/windows.py",
+      "size": 1414,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/sanity.py",
+      "size": 2409,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/shell.py",
+      "size": 1268,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/commands/units.py",
+      "size": 1406,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/compat.py",
+      "size": 23007,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/completers.py",
+      "size": 1104,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/converters.py",
+      "size": 572,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/environments.py",
+      "size": 19956,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/epilog.py",
+      "size": 658,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/parsers",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/cli/parsers/__init__.py",
+      "size": 10487,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/parsers/base_argument_parsers.py",
+      "size": 2288,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/parsers/helpers.py",
+      "size": 2034,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/parsers/host_config_parsers.py",
+      "size": 11216,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/parsers/key_value_parsers.py",
+      "size": 9404,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/cli/parsers/value_parsers.py",
+      "size": 6060,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/__init__.py",
+      "size": 88,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/__init__.py",
+      "size": 14408,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/__init__.py",
+      "size": 619,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/targets",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/targets/__init__.py",
+      "size": 5785,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/targets/combine.py",
+      "size": 2367,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/targets/expand.py",
+      "size": 1407,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/targets/filter.py",
+      "size": 3958,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/targets/generate.py",
+      "size": 4972,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/analyze/targets/missing.py",
+      "size": 3894,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/combine.py",
+      "size": 11950,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/erase.py",
+      "size": 915,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/html.py",
+      "size": 1319,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/report.py",
+      "size": 4868,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/coverage/xml.py",
+      "size": 5774,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/env",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/env/__init__.py",
+      "size": 5165,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/__init__.py",
+      "size": 36888,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/__init__.py",
+      "size": 14501,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/acme.py",
+      "size": 2141,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/aws.py",
+      "size": 4202,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/azure.py",
+      "size": 5071,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/cloudscale.py",
+      "size": 1794,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/cs.py",
+      "size": 5027,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/digitalocean.py",
+      "size": 1497,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/galaxy.py",
+      "size": 6210,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/gcp.py",
+      "size": 1591,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/hcloud.py",
+      "size": 3006,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/httptester.py",
+      "size": 2513,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/nios.py",
+      "size": 2582,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/opennebula.py",
+      "size": 1807,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/openshift.py",
+      "size": 3224,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/scaleway.py",
+      "size": 1537,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/vcenter.py",
+      "size": 2190,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/cloud/vultr.py",
+      "size": 1488,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/coverage.py",
+      "size": 15578,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/filters.py",
+      "size": 12168,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/network.py",
+      "size": 2417,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/posix.py",
+      "size": 1444,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/integration/windows.py",
+      "size": 2639,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/__init__.py",
+      "size": 50931,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/ansible_doc.py",
+      "size": 5734,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/bin_symlinks.py",
+      "size": 3072,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/compile.py",
+      "size": 2539,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/ignores.py",
+      "size": 2789,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/import.py",
+      "size": 8082,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/integration_aliases.py",
+      "size": 16221,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/mypy.py",
+      "size": 10982,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/pep8.py",
+      "size": 3125,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/pslint.py",
+      "size": 3210,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/pylint.py",
+      "size": 12152,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/shellcheck.py",
+      "size": 3070,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/validate_modules.py",
+      "size": 8186,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/sanity/yamllint.py",
+      "size": 3423,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/shell",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/shell/__init__.py",
+      "size": 4371,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/commands/units",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/commands/units/__init__.py",
+      "size": 12704,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/compat",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/compat/__init__.py",
+      "size": 88,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/compat/packaging.py",
+      "size": 518,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/compat/yaml.py",
+      "size": 530,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/completion.py",
+      "size": 11026,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/config.py",
+      "size": 12153,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/connections.py",
+      "size": 7855,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/constants.py",
+      "size": 2056,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/containers.py",
+      "size": 33905,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/content_config.py",
+      "size": 5778,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/core_ci.py",
+      "size": 17309,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/coverage_util.py",
+      "size": 9381,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/data.py",
+      "size": 11184,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/delegation.py",
+      "size": 13418,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/dev",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/dev/__init__.py",
+      "size": 138,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/dev/container_probe.py",
+      "size": 7819,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/diff.py",
+      "size": 7310,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/docker_util.py",
+      "size": 37889,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/encoding.py",
+      "size": 1367,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/executor.py",
+      "size": 2959,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/git.py",
+      "size": 4366,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/host_configs.py",
+      "size": 18283,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/host_profiles.py",
+      "size": 65318,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/http.py",
+      "size": 4123,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/init.py",
+      "size": 505,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/inventory.py",
+      "size": 5408,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/io.py",
+      "size": 2807,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/junit_xml.py",
+      "size": 8671,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/locale_util.py",
+      "size": 2161,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/metadata.py",
+      "size": 4791,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/payload.py",
+      "size": 8012,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/provider/__init__.py",
+      "size": 2246,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/layout",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/provider/layout/__init__.py",
+      "size": 7601,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/layout/ansible.py",
+      "size": 1979,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/layout/collection.py",
+      "size": 6130,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/layout/unsupported.py",
+      "size": 1240,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/source",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_internal/provider/source/__init__.py",
+      "size": 359,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/source/git.py",
+      "size": 2540,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/source/installed.py",
+      "size": 1165,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/source/unsupported.py",
+      "size": 604,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provider/source/unversioned.py",
+      "size": 2240,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/provisioning.py",
+      "size": 7320,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/pypi_proxy.py",
+      "size": 6019,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/python_requirements.py",
+      "size": 20236,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/ssh.py",
+      "size": 10662,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/target.py",
+      "size": 25320,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/test.py",
+      "size": 14515,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/thread.py",
+      "size": 2596,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/timeout.py",
+      "size": 4050,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/util.py",
+      "size": 37556,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/util_common.py",
+      "size": 17389,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_internal/venv.py",
+      "size": 9062,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/__init__.py",
+      "size": 190,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/action-plugin-docs.json",
+      "size": 249,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/action-plugin-docs.py",
+      "size": 1737,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/changelog",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/changelog.json",
+      "size": 159,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/changelog.py",
+      "size": 2070,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/changelog/sphinx.py",
+      "size": 193,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/empty-init.json",
+      "size": 277,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/empty-init.py",
+      "size": 338,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/future-import-boilerplate.json",
+      "size": 98,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/future-import-boilerplate.py",
+      "size": 1667,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/line-endings.json",
+      "size": 51,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/line-endings.py",
+      "size": 415,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/metaclass-boilerplate.json",
+      "size": 98,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/metaclass-boilerplate.py",
+      "size": 1388,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-assert.json",
+      "size": 154,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-assert.py",
+      "size": 684,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-basestring.json",
+      "size": 111,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-basestring.py",
+      "size": 613,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-dict-iteritems.json",
+      "size": 111,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-dict-iteritems.py",
+      "size": 656,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-dict-iterkeys.json",
+      "size": 111,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-dict-iterkeys.py",
+      "size": 625,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-dict-itervalues.json",
+      "size": 111,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-dict-itervalues.py",
+      "size": 661,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-get-exception.json",
+      "size": 179,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-get-exception.py",
+      "size": 947,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-illegal-filenames.json",
+      "size": 96,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-illegal-filenames.py",
+      "size": 1757,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-main-display.json",
+      "size": 154,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-main-display.py",
+      "size": 668,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-smart-quotes.json",
+      "size": 88,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-smart-quotes.py",
+      "size": 861,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-unicode-literals.json",
+      "size": 111,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/no-unicode-literals.py",
+      "size": 597,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/replace-urlopen.json",
+      "size": 179,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/replace-urlopen.py",
+      "size": 624,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/runtime-metadata.json",
+      "size": 225,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/runtime-metadata.py",
+      "size": 12183,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/shebang.json",
+      "size": 63,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/shebang.py",
+      "size": 4672,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/symlinks.json",
+      "size": 96,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/symlinks.py",
+      "size": 867,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/use-argspec-type-path.json",
+      "size": 170,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/use-argspec-type-path.py",
+      "size": 632,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/use-compat-six.json",
+      "size": 154,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/code-smell/use-compat-six.py",
+      "size": 631,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/integration-aliases",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/integration-aliases/yaml_to_json.py",
+      "size": 299,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/mypy",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/mypy/ansible-core.ini",
+      "size": 2371,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/mypy/ansible-test.ini",
+      "size": 908,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/mypy/modules.ini",
+      "size": 1694,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/mypy/packaging.ini",
+      "size": 457,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pep8",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pep8/current-ignore.txt",
+      "size": 196,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pslint",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pslint/pslint.ps1",
+      "size": 1089,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pslint/settings.psd1",
+      "size": 1869,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/config",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/config/ansible-test-target.cfg",
+      "size": 1785,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/config/ansible-test.cfg",
+      "size": 1849,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/config/code-smell.cfg",
+      "size": 1621,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/config/collection.cfg",
+      "size": 4400,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/config/default.cfg",
+      "size": 3906,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/plugins",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/plugins/deprecated.py",
+      "size": 18674,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/plugins/hide_unraisable.py",
+      "size": 894,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/plugins/string_format.py",
+      "size": 2626,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/pylint/plugins/unwanted.py",
+      "size": 9061,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/shellcheck",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/shellcheck/exclude.txt",
+      "size": 21,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate.py",
+      "size": 114,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate_modules",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate_modules/__init__.py",
+      "size": 816,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate_modules/main.py",
+      "size": 114158,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate_modules/module_args.py",
+      "size": 6628,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate_modules/ps_argspec.ps1",
+      "size": 4139,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate_modules/schema.py",
+      "size": 36172,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/validate-modules/validate_modules/utils.py",
+      "size": 7054,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/yamllint",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/yamllint/config",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/yamllint/config/default.yml",
+      "size": 534,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/yamllint/config/modules.yml",
+      "size": 396,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/yamllint/config/plugins.yml",
+      "size": 397,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/sanity/yamllint/yamllinter.py",
+      "size": 8381,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/tools",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/controller/tools/collection_detail.py",
+      "size": 2995,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/tools/coverage_stub.ps1",
+      "size": 1139,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/tools/sslcheck.py",
+      "size": 419,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/controller/tools/yaml_to_json.py",
+      "size": 725,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/__init__.py",
+      "size": 190,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/cli",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/cli/ansible_test_cli_stub.py",
+      "size": 1703,
+      "perm": 509
+    },
+    {
+      "name": "ansible_test/_util/target/common",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/common/__init__.py",
+      "size": 190,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/common/constants.py",
+      "size": 501,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/injector",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/injector/python.py",
+      "size": 2749,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/injector/virtualenv.sh",
+      "size": 673,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/pytest",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/pytest/plugins",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/pytest/plugins/ansible_forked.py",
+      "size": 3826,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/pytest/plugins/ansible_pytest_collections.py",
+      "size": 5130,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/pytest/plugins/ansible_pytest_coverage.py",
+      "size": 1599,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/sanity",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/sanity/compile",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/sanity/compile/compile.py",
+      "size": 1637,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/sanity/import",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/sanity/import/importer.py",
+      "size": 25773,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/setup",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/setup/bootstrap.sh",
+      "size": 13501,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/setup/check_systemd_cgroup_v1.sh",
+      "size": 395,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/setup/probe_cgroups.py",
+      "size": 712,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/setup/quiet_pip.py",
+      "size": 2939,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/setup/requirements.py",
+      "size": 13253,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/tools",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/_util/target/tools/virtualenvcheck.py",
+      "size": 518,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/_util/target/tools/yamlcheck.py",
+      "size": 364,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "ansible_test/config/cloud-config-aws.ini.template",
+      "size": 1280,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-azure.ini.template",
+      "size": 1024,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-cloudscale.ini.template",
+      "size": 389,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-cs.ini.template",
+      "size": 801,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-gcp.ini.template",
+      "size": 807,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-hcloud.ini.template",
+      "size": 769,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-opennebula.ini.template",
+      "size": 844,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-openshift.kubeconfig.template",
+      "size": 768,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-scaleway.ini.template",
+      "size": 491,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-vcenter.ini.template",
+      "size": 1135,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/cloud-config-vultr.ini.template",
+      "size": 477,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/config.yml",
+      "size": 2620,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/inventory.networking.template",
+      "size": 1335,
+      "perm": 436
+    },
+    {
+      "name": "ansible_test/config/inventory.winrm.template",
+      "size": 1098,
+      "perm": 436
+    },
+    {
+      "name": "bin",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "bin/ansible",
+      "size": 240,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-config",
+      "size": 241,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-connection",
+      "size": 270,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-console",
+      "size": 242,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-doc",
+      "size": 238,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-galaxy",
+      "size": 241,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-inventory",
+      "size": 244,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-playbook",
+      "size": 243,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-pull",
+      "size": 239,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-test",
+      "size": 1724,
+      "perm": 509
+    },
+    {
+      "name": "bin/ansible-vault",
+      "size": 240,
+      "perm": 509
+    },
+    {
+      "name": "cffi",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cffi-1.16.0.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cffi-1.16.0.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "cffi-1.16.0.dist-info/LICENSE",
+      "size": 1294,
+      "perm": 436
+    },
+    {
+      "name": "cffi-1.16.0.dist-info/METADATA",
+      "size": 1480,
+      "perm": 436
+    },
+    {
+      "name": "cffi-1.16.0.dist-info/RECORD",
+      "size": 3175,
+      "perm": 436
+    },
+    {
+      "name": "cffi-1.16.0.dist-info/WHEEL",
+      "size": 110,
+      "perm": 436
+    },
+    {
+      "name": "cffi-1.16.0.dist-info/entry_points.txt",
+      "size": 75,
+      "perm": 436
+    },
+    {
+      "name": "cffi-1.16.0.dist-info/top_level.txt",
+      "size": 19,
+      "perm": 436
+    },
+    {
+      "name": "cffi/__init__.py",
+      "size": 513,
+      "perm": 436
+    },
+    {
+      "name": "cffi/_cffi_errors.h",
+      "size": 3908,
+      "perm": 436
+    },
+    {
+      "name": "cffi/_cffi_include.h",
+      "size": 14800,
+      "perm": 436
+    },
+    {
+      "name": "cffi/_embedding.h",
+      "size": 18787,
+      "perm": 436
+    },
+    {
+      "name": "cffi/_imp_emulation.py",
+      "size": 2960,
+      "perm": 436
+    },
+    {
+      "name": "cffi/_shimmed_dist_utils.py",
+      "size": 2007,
+      "perm": 436
+    },
+    {
+      "name": "cffi/api.py",
+      "size": 42085,
+      "perm": 436
+    },
+    {
+      "name": "cffi/backend_ctypes.py",
+      "size": 42454,
+      "perm": 436
+    },
+    {
+      "name": "cffi/cffi_opcode.py",
+      "size": 5724,
+      "perm": 436
+    },
+    {
+      "name": "cffi/commontypes.py",
+      "size": 2689,
+      "perm": 436
+    },
+    {
+      "name": "cffi/cparser.py",
+      "size": 44231,
+      "perm": 436
+    },
+    {
+      "name": "cffi/error.py",
+      "size": 877,
+      "perm": 436
+    },
+    {
+      "name": "cffi/ffiplatform.py",
+      "size": 3584,
+      "perm": 436
+    },
+    {
+      "name": "cffi/lock.py",
+      "size": 747,
+      "perm": 436
+    },
+    {
+      "name": "cffi/model.py",
+      "size": 21790,
+      "perm": 436
+    },
+    {
+      "name": "cffi/parse_c_type.h",
+      "size": 5976,
+      "perm": 436
+    },
+    {
+      "name": "cffi/pkgconfig.py",
+      "size": 4374,
+      "perm": 436
+    },
+    {
+      "name": "cffi/recompiler.py",
+      "size": 64601,
+      "perm": 436
+    },
+    {
+      "name": "cffi/setuptools_ext.py",
+      "size": 8871,
+      "perm": 436
+    },
+    {
+      "name": "cffi/vengine_cpy.py",
+      "size": 43351,
+      "perm": 436
+    },
+    {
+      "name": "cffi/vengine_gen.py",
+      "size": 26684,
+      "perm": 436
+    },
+    {
+      "name": "cffi/verifier.py",
+      "size": 11182,
+      "perm": 436
+    },
+    {
+      "name": "cryptography",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/LICENSE",
+      "size": 197,
+      "perm": 436
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/LICENSE.APACHE",
+      "size": 11360,
+      "perm": 436
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/LICENSE.BSD",
+      "size": 1532,
+      "perm": 436
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/METADATA",
+      "size": 5295,
+      "perm": 436
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/RECORD",
+      "size": 15236,
+      "perm": 436
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/WHEEL",
+      "size": 114,
+      "perm": 436
+    },
+    {
+      "name": "cryptography-42.0.4.dist-info/top_level.txt",
+      "size": 13,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/__about__.py",
+      "size": 445,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/__init__.py",
+      "size": 364,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/exceptions.py",
+      "size": 1087,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/fernet.py",
+      "size": 6696,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/__init__.py",
+      "size": 455,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/_oid.py",
+      "size": 14460,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/backends",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/backends/__init__.py",
+      "size": 361,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/backends/openssl",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/backends/openssl/__init__.py",
+      "size": 305,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/backends/openssl/aead.py",
+      "size": 8176,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/backends/openssl/backend.py",
+      "size": 32966,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/backends/openssl/ciphers.py",
+      "size": 10353,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/backends/openssl/decode_asn1.py",
+      "size": 1148,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/bindings/__init__.py",
+      "size": 180,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust.abi3.so",
+      "size": 17605960,
+      "perm": 509,
+      "compressed": true
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/__init__.pyi",
+      "size": 495,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/_openssl.pyi",
+      "size": 230,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/asn1.pyi",
+      "size": 556,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/exceptions.pyi",
+      "size": 640,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/ocsp.pyi",
+      "size": 860,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/__init__.pyi",
+      "size": 1098,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/aead.pyi",
+      "size": 1737,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/cmac.pyi",
+      "size": 564,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/dh.pyi",
+      "size": 1564,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/dsa.pyi",
+      "size": 1299,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/ec.pyi",
+      "size": 1691,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/ed25519.pyi",
+      "size": 493,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/ed448.pyi",
+      "size": 475,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/hashes.pyi",
+      "size": 573,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/hmac.pyi",
+      "size": 662,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/kdf.pyi",
+      "size": 544,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/keys.pyi",
+      "size": 980,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/poly1305.pyi",
+      "size": 540,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/rsa.pyi",
+      "size": 1364,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/x25519.pyi",
+      "size": 484,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/openssl/x448.pyi",
+      "size": 466,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/pkcs7.pyi",
+      "size": 619,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/_rust/x509.pyi",
+      "size": 3001,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/openssl",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/bindings/openssl/__init__.py",
+      "size": 180,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/openssl/_conditional.py",
+      "size": 6290,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/bindings/openssl/binding.py",
+      "size": 4935,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/primitives/__init__.py",
+      "size": 180,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/_asymmetric.py",
+      "size": 532,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/_cipheralgorithm.py",
+      "size": 1072,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/_serialization.py",
+      "size": 5142,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/__init__.py",
+      "size": 180,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/dh.py",
+      "size": 3420,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/dsa.py",
+      "size": 3945,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/ec.py",
+      "size": 9704,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/ed25519.py",
+      "size": 3423,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/ed448.py",
+      "size": 3456,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/padding.py",
+      "size": 2885,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/rsa.py",
+      "size": 6799,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/types.py",
+      "size": 2996,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/utils.py",
+      "size": 790,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/x25519.py",
+      "size": 3341,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/asymmetric/x448.py",
+      "size": 3374,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/ciphers",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/primitives/ciphers/__init__.py",
+      "size": 680,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/ciphers/aead.py",
+      "size": 5540,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/ciphers/algorithms.py",
+      "size": 5120,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/ciphers/base.py",
+      "size": 8445,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/ciphers/modes.py",
+      "size": 8317,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/cmac.py",
+      "size": 338,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/constant_time.py",
+      "size": 422,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/hashes.py",
+      "size": 5091,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/hmac.py",
+      "size": 423,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf/__init__.py",
+      "size": 750,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf/concatkdf.py",
+      "size": 3686,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf/hkdf.py",
+      "size": 3015,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf/kbkdf.py",
+      "size": 9072,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf/pbkdf2.py",
+      "size": 2012,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf/scrypt.py",
+      "size": 2354,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/kdf/x963kdf.py",
+      "size": 1992,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/keywrap.py",
+      "size": 5650,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/padding.py",
+      "size": 6148,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/poly1305.py",
+      "size": 355,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/serialization",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/primitives/serialization/__init__.py",
+      "size": 1653,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/serialization/base.py",
+      "size": 615,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/serialization/pkcs12.py",
+      "size": 6599,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/serialization/pkcs7.py",
+      "size": 7488,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/serialization/ssh.py",
+      "size": 50051,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/twofactor",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/hazmat/primitives/twofactor/__init__.py",
+      "size": 258,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/twofactor/hotp.py",
+      "size": 2976,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/hazmat/primitives/twofactor/totp.py",
+      "size": 1450,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/py.typed",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/utils.py",
+      "size": 4033,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "cryptography/x509/__init__.py",
+      "size": 7924,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/base.py",
+      "size": 36933,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/certificate_transparency.py",
+      "size": 2261,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/extensions.py",
+      "size": 66345,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/general_name.py",
+      "size": 7836,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/name.py",
+      "size": 14609,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/ocsp.py",
+      "size": 18126,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/oid.py",
+      "size": 829,
+      "perm": 436
+    },
+    {
+      "name": "cryptography/x509/verification.py",
+      "size": 668,
+      "perm": 436
+    },
+    {
+      "name": "jinja2",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "jinja2/__init__.py",
+      "size": 1927,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/_identifier.py",
+      "size": 1958,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/async_utils.py",
+      "size": 2447,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/bccache.py",
+      "size": 14061,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/compiler.py",
+      "size": 72199,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/constants.py",
+      "size": 1433,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/debug.py",
+      "size": 6299,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/defaults.py",
+      "size": 1267,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/environment.py",
+      "size": 61253,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/exceptions.py",
+      "size": 5071,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/ext.py",
+      "size": 31844,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/filters.py",
+      "size": 53862,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/idtracking.py",
+      "size": 10704,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/lexer.py",
+      "size": 29726,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/loaders.py",
+      "size": 23085,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/meta.py",
+      "size": 4396,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/nativetypes.py",
+      "size": 4210,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/nodes.py",
+      "size": 34550,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/optimizer.py",
+      "size": 1650,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/parser.py",
+      "size": 39736,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/py.typed",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/runtime.py",
+      "size": 33406,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/sandbox.py",
+      "size": 14584,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/tests.py",
+      "size": 5905,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/utils.py",
+      "size": 23933,
+      "perm": 436
+    },
+    {
+      "name": "jinja2/visitor.py",
+      "size": 3568,
+      "perm": 436
+    },
+    {
+      "name": "markupsafe",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "markupsafe/__init__.py",
+      "size": 10958,
+      "perm": 436
+    },
+    {
+      "name": "markupsafe/_native.py",
+      "size": 1713,
+      "perm": 436
+    },
+    {
+      "name": "markupsafe/_speedups.c",
+      "size": 7083,
+      "perm": 436
+    },
+    {
+      "name": "markupsafe/_speedups.cpython-312-darwin.so",
+      "size": 117420,
+      "perm": 509,
+      "compressed": true
+    },
+    {
+      "name": "markupsafe/_speedups.pyi",
+      "size": 229,
+      "perm": 436
+    },
+    {
+      "name": "markupsafe/py.typed",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "packaging",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "packaging-23.2.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "packaging-23.2.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "packaging-23.2.dist-info/LICENSE",
+      "size": 197,
+      "perm": 436
+    },
+    {
+      "name": "packaging-23.2.dist-info/LICENSE.APACHE",
+      "size": 10174,
+      "perm": 436
+    },
+    {
+      "name": "packaging-23.2.dist-info/LICENSE.BSD",
+      "size": 1344,
+      "perm": 436
+    },
+    {
+      "name": "packaging-23.2.dist-info/METADATA",
+      "size": 3203,
+      "perm": 436
+    },
+    {
+      "name": "packaging-23.2.dist-info/RECORD",
+      "size": 2475,
+      "perm": 436
+    },
+    {
+      "name": "packaging-23.2.dist-info/WHEEL",
+      "size": 81,
+      "perm": 436
+    },
+    {
+      "name": "packaging/__init__.py",
+      "size": 496,
+      "perm": 436
+    },
+    {
+      "name": "packaging/_elffile.py",
+      "size": 3266,
+      "perm": 436
+    },
+    {
+      "name": "packaging/_manylinux.py",
+      "size": 9526,
+      "perm": 436
+    },
+    {
+      "name": "packaging/_musllinux.py",
+      "size": 2676,
+      "perm": 436
+    },
+    {
+      "name": "packaging/_parser.py",
+      "size": 10382,
+      "perm": 436
+    },
+    {
+      "name": "packaging/_structures.py",
+      "size": 1431,
+      "perm": 436
+    },
+    {
+      "name": "packaging/_tokenizer.py",
+      "size": 5292,
+      "perm": 436
+    },
+    {
+      "name": "packaging/markers.py",
+      "size": 8208,
+      "perm": 436
+    },
+    {
+      "name": "packaging/metadata.py",
+      "size": 32750,
+      "perm": 436
+    },
+    {
+      "name": "packaging/py.typed",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "packaging/requirements.py",
+      "size": 2952,
+      "perm": 436
+    },
+    {
+      "name": "packaging/specifiers.py",
+      "size": 39206,
+      "perm": 436
+    },
+    {
+      "name": "packaging/tags.py",
+      "size": 18355,
+      "perm": 436
+    },
+    {
+      "name": "packaging/utils.py",
+      "size": 5268,
+      "perm": 436
+    },
+    {
+      "name": "packaging/version.py",
+      "size": 16236,
+      "perm": 436
+    },
+    {
+      "name": "pycparser",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "pycparser-2.21.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "pycparser-2.21.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "pycparser-2.21.dist-info/LICENSE",
+      "size": 1536,
+      "perm": 436
+    },
+    {
+      "name": "pycparser-2.21.dist-info/METADATA",
+      "size": 1108,
+      "perm": 436
+    },
+    {
+      "name": "pycparser-2.21.dist-info/RECORD",
+      "size": 2793,
+      "perm": 436
+    },
+    {
+      "name": "pycparser-2.21.dist-info/WHEEL",
+      "size": 110,
+      "perm": 436
+    },
+    {
+      "name": "pycparser-2.21.dist-info/top_level.txt",
+      "size": 10,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/__init__.py",
+      "size": 2815,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/_ast_gen.py",
+      "size": 10555,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/_build_tables.py",
+      "size": 1039,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/_c_ast.cfg",
+      "size": 4255,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/ast_transforms.py",
+      "size": 5691,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/c_ast.py",
+      "size": 31445,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/c_generator.py",
+      "size": 17772,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/c_lexer.py",
+      "size": 17167,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/c_parser.py",
+      "size": 73680,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/lextab.py",
+      "size": 8504,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/ply",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "pycparser/ply/__init__.py",
+      "size": 102,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/ply/cpp.py",
+      "size": 33282,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/ply/ctokens.py",
+      "size": 3177,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/ply/lex.py",
+      "size": 42918,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/ply/yacc.py",
+      "size": 137323,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/ply/ygen.py",
+      "size": 2251,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/plyparser.py",
+      "size": 4875,
+      "perm": 436
+    },
+    {
+      "name": "pycparser/yacctab.py",
+      "size": 205652,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "resolvelib-1.0.1.dist-info",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "resolvelib-1.0.1.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib-1.0.1.dist-info/LICENSE",
+      "size": 751,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib-1.0.1.dist-info/METADATA",
+      "size": 4042,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib-1.0.1.dist-info/RECORD",
+      "size": 2028,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib-1.0.1.dist-info/WHEEL",
+      "size": 110,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib-1.0.1.dist-info/top_level.txt",
+      "size": 11,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/__init__.py",
+      "size": 537,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/__init__.pyi",
+      "size": 564,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/compat",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "resolvelib/compat/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/compat/collections_abc.py",
+      "size": 156,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/compat/collections_abc.pyi",
+      "size": 46,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/providers.py",
+      "size": 5871,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/providers.pyi",
+      "size": 1343,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/py.typed",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/reporters.py",
+      "size": 1601,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/reporters.pyi",
+      "size": 503,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/resolvers.py",
+      "size": 20511,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/resolvers.pyi",
+      "size": 2490,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/structs.py",
+      "size": 4963,
+      "perm": 436
+    },
+    {
+      "name": "resolvelib/structs.pyi",
+      "size": 1121,
+      "perm": 436
+    },
+    {
+      "name": "yaml",
+      "size": 0,
+      "perm": 2147484157
+    },
+    {
+      "name": "yaml/__init__.py",
+      "size": 12311,
+      "perm": 436
+    },
+    {
+      "name": "yaml/_yaml.cpython-312-darwin.so",
+      "size": 361928,
+      "perm": 509,
+      "compressed": true
+    },
+    {
+      "name": "yaml/composer.py",
+      "size": 4883,
+      "perm": 436
+    },
+    {
+      "name": "yaml/constructor.py",
+      "size": 28639,
+      "perm": 436
+    },
+    {
+      "name": "yaml/cyaml.py",
+      "size": 3851,
+      "perm": 436
+    },
+    {
+      "name": "yaml/dumper.py",
+      "size": 2837,
+      "perm": 436
+    },
+    {
+      "name": "yaml/emitter.py",
+      "size": 43006,
+      "perm": 436
+    },
+    {
+      "name": "yaml/error.py",
+      "size": 2533,
+      "perm": 436
+    },
+    {
+      "name": "yaml/events.py",
+      "size": 2445,
+      "perm": 436
+    },
+    {
+      "name": "yaml/loader.py",
+      "size": 2061,
+      "perm": 436
+    },
+    {
+      "name": "yaml/nodes.py",
+      "size": 1440,
+      "perm": 436
+    },
+    {
+      "name": "yaml/parser.py",
+      "size": 25495,
+      "perm": 436
+    },
+    {
+      "name": "yaml/reader.py",
+      "size": 6794,
+      "perm": 436
+    },
+    {
+      "name": "yaml/representer.py",
+      "size": 14190,
+      "perm": 436
+    },
+    {
+      "name": "yaml/resolver.py",
+      "size": 9004,
+      "perm": 436
+    },
+    {
+      "name": "yaml/scanner.py",
+      "size": 51279,
+      "perm": 436
+    },
+    {
+      "name": "yaml/serializer.py",
+      "size": 4165,
+      "perm": 436
+    },
+    {
+      "name": "yaml/tokens.py",
+      "size": 2573,
+      "perm": 436
+    }
+  ]
+}
